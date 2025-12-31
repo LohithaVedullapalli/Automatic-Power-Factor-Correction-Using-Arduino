@@ -28,10 +28,6 @@ The focus of this project is on **control logic, automation, and system behavior
 4. Adding capacitors compensates reactive power and improves the power factor.
 5. The **LCD displays the current power factor status and active capacitor stages**.
 6. The entire behavior is verified through **Proteus simulation**.
-
-> ⚠ Note:  
-> This project uses a **simulation-level approximation** of power factor suitable for Proteus-based demonstrations. It emphasizes automation and control logic rather than high-precision power system analysis.
-
 ---
 
 ## 📂 Repository Contents
