@@ -17,7 +17,7 @@ The focus of this project is on **control logic, automation, and system behavior
 - **Arduino UNO** – Control and decision-making unit  
 - **Arduino IDE** – Code development and HEX generation  
 - **C / C++ (Arduino)** – Control logic programming  
-- **16×2 LCD** – Display of power factor and capacitor status  
+- **20×4 LCD** – Display of power factor and capacitor status  
 
 ---
 
@@ -26,7 +26,7 @@ The focus of this project is on **control logic, automation, and system behavior
 2. The **Arduino UNO** processes this signal and determines whether the power factor is low.
 3. Based on predefined thresholds, the Arduino **switches relay-controlled capacitor banks ON or OFF**.
 4. Adding capacitors compensates reactive power and improves the power factor.
-5. The **LCD displays the current power factor status and active capacitor stages**.
+5. The **The LCD displays voltage, current, power factor, power quantities, and the status of the capacitor banks.**.
 6. The entire behavior is verified through **Proteus simulation**.
 ---
 
@@ -41,9 +41,6 @@ The focus of this project is on **control logic, automation, and system behavior
 ## 🎯 Applications
 - Academic mini / major projects  
 - Understanding APFC logic and relay control  
-- Embedded systems and automation learning  
-- Demonstration of power factor correction concepts  
-
 ---
 
 
