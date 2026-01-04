@@ -1,4 +1,4 @@
-# ⚡ Automatic Power Factor Correction (APFC) – Proteus Simulation
+# ⚡ Automatic Power Factor Correction Using Arduino
 
 ## 📌 Project Title
 **Automatic Power Factor Correction (APFC) using Arduino and Relay-Based Capacitor Switching**
